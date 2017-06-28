@@ -169,7 +169,7 @@ html,body{
 
 .page4 .pic1{
     display: block;
-    width: 3rem;
+    width: 3.5rem;
     height:2.5rem;
     position: absolute;
     right: 0.3rem;
@@ -189,7 +189,7 @@ html,body{
     width: 3rem;
     height:2rem;
     position: absolute;
-    top: 5.45rem;
+    top: 4.45rem;
     left: 0.25rem;
     z-index: 999;
 }
@@ -199,7 +199,7 @@ html,body{
     height: 2.5rem;
     position: absolute;
     left: 0rem;
-    top: 5.2rem;
+    top: 4.2rem;
 }
 .page4 .pic3{
     display: block;
@@ -207,7 +207,7 @@ html,body{
     height:2rem;
     position: absolute;
     right: 0.25rem;
-    top: 5.45rem;
+    top: 4.45rem;
     z-index: 99;
 }
 .page4 .tu3{
@@ -216,13 +216,13 @@ html,body{
     height: 2.5rem;
     position: absolute;
     right: 0rem;
-    top: 5.2rem;
+    top: 4.2rem;
 }
 .page4 .pic4{
     width: 3rem;
     height: 4rem;
     position: absolute;
-    bottom: 0.3rem;
+    bottom: 0.5rem;
     left: 1.2rem;
     z-index: 999;
 }
@@ -231,7 +231,7 @@ html,body{
     height: 4.5rem;
     position: absolute;
     left: 1rem;
-    bottom: 0.1rem;
+    bottom: 0.3rem;
 }
 .page4 .p1{
     font-size: 0.8rem;
