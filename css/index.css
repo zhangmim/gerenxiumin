@@ -169,8 +169,8 @@ html,body{
 
 .page4 .pic1{
     display: block;
-    width: 5rem;
-    height:4rem;
+    width: 3rem;
+    height:2.5rem;
     position: absolute;
     right: 0.3rem;
     top: 0.45rem;
@@ -178,8 +178,8 @@ html,body{
 }
 .page4 .tu1{
     display: block;
-    width: 5.5rem;
-    height: 4.5rem;
+    width: 4.5rem;
+    height: 3rem;
     position: absolute;
     right: 0rem;
     top: 0.2rem;
@@ -269,6 +269,7 @@ html,body{
     line-height: 0.8rem;
     font-family: ziti1;
     padding: 0 1rem;
+    z-index:999;
 }
 .page5 .pic1{
     width: 4.68rem;
